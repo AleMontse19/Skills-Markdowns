@@ -14,3 +14,7 @@ var myVar = "Hello, world!";
 string mark = "Hola:)";
 Console.WriteLine(mark);
 ```
+- [ ] Learning to use GitHub
+- [ ] Finising the course on React
+- [ ] Doing my document
+
